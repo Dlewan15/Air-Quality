@@ -8,6 +8,7 @@ The main questions I would like to answer are:
 
    - when the level of the Nitrogen Dioxide is higher in this specific roadside location in Dundee?
    - can we observe daily/monthly and seasonal patterns of the NO2 level fluctuations?
+
 By finding out the trends in NO2 level fluctuations we can mitigate its harmful effects on human health.
 Data collection
 To look into the dayily/monthly fluctuations of NO2 levels in Dundee I created my own dataset using data from the online UK-AIR database on the Department for Environment Food & Rural Affairs (DEFRA) website https://uk-air.defra.gov.uk/data/data_selector_service?#mid. A data on pollutants at different locations can be sourced from there.
