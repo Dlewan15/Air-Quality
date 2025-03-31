@@ -15,4 +15,8 @@ Data collection
 
 To look into the dayily/monthly fluctuations of NO2 levels in Dundee I created my own dataset using data from the online UK-AIR database on the Department for Environment Food & Rural Affairs (DEFRA) website https://uk-air.defra.gov.uk/data/data_selector_service?#mid. A data on pollutants at different locations can be sourced from there.
 
-Cleaning and transforming of the data and initial analysis were done in Python, the code is available in the file 
+1. Cleaning and transforming of the data and initial analysis were done in Python, the code is available in the file Final_Air_Quality_Mini_Project.ipyn
+2. Raw air quality data is in file AirQualityDataHourly.csv and cleaned data is available in Clean_air_quality(2).csv
+3. Data visualisation has been prepared in PowerBI, the dashboard is in AirQuality.pbix
+
+
